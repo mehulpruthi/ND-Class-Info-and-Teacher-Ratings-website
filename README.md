@@ -1,4 +1,4 @@
-amazing project
+amazing project.
 
 # ND Reviews
 Website that allows for students at Notre Dame to look up classes information as well as view and submit ratings for both teachers and courses. 
